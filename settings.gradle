@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "visit_card_tejasr"
+rootProject.name = "vistingcard"

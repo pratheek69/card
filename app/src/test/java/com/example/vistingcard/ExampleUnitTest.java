@@ -1,4 +1,4 @@
-package com.example.visit_card_tejasr;
+package com.example.vistingcard;
 
 import org.junit.Test;
 

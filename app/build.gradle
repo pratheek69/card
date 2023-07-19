@@ -7,7 +7,7 @@ android {
     buildToolsVersion "33.0.2"
 
     defaultConfig {
-        applicationId "com.example.visit_card_tejasr"
+        applicationId "com.example.visitingcard"
         minSdkVersion 16
         targetSdkVersion 33
         versionCode 1
